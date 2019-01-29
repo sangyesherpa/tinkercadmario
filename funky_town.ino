@@ -1,8 +1,3 @@
-/*
- * Josette Rivera
- * 12/3/15
- * final project: Funky town
- */
 #define NOTE_A4  440
 #define NOTE_E5  659
 #define NOTE_G5  784
